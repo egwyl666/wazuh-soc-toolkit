@@ -27,7 +27,7 @@ endpoint), used to detect and report on a live simulated password spray attack
 [2026-07-12T02:18:46+0300] DC1 | level=10 | Multiple Windows Logon Failures | IP=192.168.50.102 (internal/private IP — skip)
 [2026-07-09T00:39:27+0300] pios | level=10 | sshd: brute force trying to get access | IP=192.168.50.102 (internal/private IP — skip)
 
-Saved 20 alerts to: soc_report_20260712_143022.csv
+Saved 20 alerts to: soc_report_20260712_031013.csv
 ```
 
 A sample report from the home lab is included in [`sample_report/`](sample_report/).
