@@ -1,0 +1,20 @@
+timestamp,agent,rule_id,rule_level,description,src_ip,ip_status
+2026-07-12T02:18:46.301+0000,DC-LAB,60204,10,Multiple Windows Logon Failures,192.0.2.102,internal/private IP — skip
+2026-07-12T00:45:22.104+0000,WS-01,60204,10,Multiple Windows Logon Failures,,no IP
+2026-07-11T17:57:15.052+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:15.052+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:15.019+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:15.004+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:14.988+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:14.988+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:14.957+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:14.942+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:14.929+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:14.929+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:14.894+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:14.879+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:14.863+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:14.850+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:14.831+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-11T17:57:14.816+0000,DC-LAB,60112,8,Windows Audit Policy changed,,no IP
+2026-07-09T00:39:27.141+0000,LAB-PI,5763,10,sshd: brute force trying to get access to the system. Authentication failed.,192.0.2.102,internal/private IP — skip
