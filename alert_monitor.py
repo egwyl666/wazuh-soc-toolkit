@@ -5,7 +5,7 @@ Pulls recent high-severity alerts from a Wazuh Indexer (OpenSearch),
 extracts source IPs from both Windows and Linux event structures,
 enriches external IPs against AbuseIPDB, and exports a CSV report.
 
-Author: <твоё имя>
+Author: Egwyl666
 """
 
 import csv
